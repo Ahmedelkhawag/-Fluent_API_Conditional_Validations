@@ -1,0 +1,6 @@
+@Fluent_API_Conditional_Validations_HostAddress = http://localhost:5054
+
+GET {{Fluent_API_Conditional_Validations_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

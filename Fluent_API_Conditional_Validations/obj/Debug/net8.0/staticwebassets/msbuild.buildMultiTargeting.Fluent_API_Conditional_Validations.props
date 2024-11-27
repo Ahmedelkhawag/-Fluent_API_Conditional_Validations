@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Fluent_API_Conditional_Validations.props" />
+</Project>

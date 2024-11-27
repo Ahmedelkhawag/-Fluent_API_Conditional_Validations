@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Fluent_API_Conditional_Validations.props" />
+</Project>
